@@ -1,1 +1,0 @@
-[0m[[31merror[0m] [0mTest [33mExceptionsTests[0m.[31mexceptionMessage[0m failed: -10 Exception message was not correct expected:<User[ 7 ]does not exist> but was:<User[0]does not exist>, took 0.004 sec[0m
