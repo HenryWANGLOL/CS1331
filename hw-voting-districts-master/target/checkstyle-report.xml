@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="6.5">
+<file name="C:\Users\henryw\Desktop\hw-voting-districts-master\src\main\java\compositeDistrict.class">
+<error line="2" column="5" severity="error" message="File contains tab characters (this is the first instance)." source="com.puppycrawl.tools.checkstyle.checks.whitespace.FileTabCharacterCheck"/>
+</file>
+<file name="C:\Users\henryw\Desktop\hw-voting-districts-master\src\main\java\compositeDistrict.java">
+<error line="8" column="14" severity="error" message="Name &apos;compositeDistrict&apos; must match pattern &apos;^[A-Z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.TypeNameCheck"/>
+</file>
+<file name="C:\Users\henryw\Desktop\hw-voting-districts-master\src\main\java\compositeDistrict.java~">
+<error line="7" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+<error line="9" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+<error line="18" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+<error line="22" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+<error line="26" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+<error line="29" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+<error line="31" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+<error line="39" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+<error line="56" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+<error line="57" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+</file>
+<file name="C:\Users\henryw\Desktop\hw-voting-districts-master\src\main\java\district.class">
+<error line="2" column="57" severity="error" message="File contains tab characters (this is the first instance)." source="com.puppycrawl.tools.checkstyle.checks.whitespace.FileTabCharacterCheck"/>
+</file>
+<file name="C:\Users\henryw\Desktop\hw-voting-districts-master\src\main\java\district.java">
+<error line="7" column="18" severity="error" message="Name &apos;district&apos; must match pattern &apos;^[A-Z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.TypeNameCheck"/>
+</file>
+<file name="C:\Users\henryw\Desktop\hw-voting-districts-master\src\main\java\district.java~">
+</file>
+<file name="C:\Users\henryw\Desktop\hw-voting-districts-master\src\main\java\districts.txt">
+</file>
+<file name="C:\Users\henryw\Desktop\hw-voting-districts-master\src\main\java\doc\allclasses-frame.html">
+</file>
+<file name="C:\Users\henryw\Desktop\hw-voting-districts-master\src\main\java\doc\allclasses-noframe.html">
+</file>
+<file name="C:\Users\henryw\Desktop\hw-voting-districts-master\src\main\java\doc\compositeDistrict.html">
+</file>
+<file name="C:\Users\henryw\Desktop\hw-voting-districts-master\src\main\java\doc\constant-values.html">
+</file>
+<file name="C:\Users\henryw\Desktop\hw-voting-districts-master\src\main\java\doc\deprecated-list.html">
+</file>
+<file name="C:\Users\henryw\Desktop\hw-voting-districts-master\src\main\java\doc\district.html">
+</file>
+<file name="C:\Users\henryw\Desktop\hw-voting-districts-master\src\main\java\doc\Filereader.html">
+</file>
+<file name="C:\Users\henryw\Desktop\hw-voting-districts-master\src\main\java\doc\help-doc.html">
+</file>
+<file name="C:\Users\henryw\Desktop\hw-voting-districts-master\src\main\java\doc\index-all.html">
+</file>
+<file name="C:\Users\henryw\Desktop\hw-voting-districts-master\src\main\java\doc\index.html">
+</file>
+<file name="C:\Users\henryw\Desktop\hw-voting-districts-master\src\main\java\doc\localDistrict.html">
+</file>
+<file name="C:\Users\henryw\Desktop\hw-voting-districts-master\src\main\java\doc\MapComparator.html">
+</file>
+<file name="C:\Users\henryw\Desktop\hw-voting-districts-master\src\main\java\doc\MapComparator2.html">
+</file>
+<file name="C:\Users\henryw\Desktop\hw-voting-districts-master\src\main\java\doc\overview-tree.html">
+</file>
+<file name="C:\Users\henryw\Desktop\hw-voting-districts-master\src\main\java\doc\package-frame.html">
+</file>
+<file name="C:\Users\henryw\Desktop\hw-voting-districts-master\src\main\java\doc\package-list">
+</file>
+<file name="C:\Users\henryw\Desktop\hw-voting-districts-master\src\main\java\doc\package-summary.html">
+</file>
+<file name="C:\Users\henryw\Desktop\hw-voting-districts-master\src\main\java\doc\package-tree.html">
+</file>
+<file name="C:\Users\henryw\Desktop\hw-voting-districts-master\src\main\java\doc\script.js">
+</file>
+<file name="C:\Users\henryw\Desktop\hw-voting-districts-master\src\main\java\doc\stylesheet.css">
+<error line="134" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+<error line="334" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+<error line="362" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+<error line="363" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+<error line="364" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+<error line="449" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+</file>
+<file name="C:\Users\henryw\Desktop\hw-voting-districts-master\src\main\java\doc\Voter.html">
+</file>
+<file name="C:\Users\henryw\Desktop\hw-voting-districts-master\src\main\java\Filereader.class">
+<error line="13" column="18" severity="error" message="File contains tab characters (this is the first instance)." source="com.puppycrawl.tools.checkstyle.checks.whitespace.FileTabCharacterCheck"/>
+<error line="38" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+<error line="116" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+</file>
+<file name="C:\Users\henryw\Desktop\hw-voting-districts-master\src\main\java\Filereader.java">
+<error line="2" severity="error" message="Using the &apos;.*&apos; form of import should be avoided - java.util.*." source="com.puppycrawl.tools.checkstyle.checks.imports.AvoidStarImportCheck"/>
+<error line="3" severity="error" message="Using the &apos;.*&apos; form of import should be avoided - java.io.*." source="com.puppycrawl.tools.checkstyle.checks.imports.AvoidStarImportCheck"/>
+</file>
+<file name="C:\Users\henryw\Desktop\hw-voting-districts-master\src\main\java\Filereader.java~">
+<error line="7" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+<error line="32" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+<error line="40" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+<error line="49" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+<error line="65" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+<error line="67" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+<error line="76" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+<error line="79" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+<error line="86" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+<error line="100" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+<error line="109" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+<error line="111" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+<error line="123" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+<error line="144" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+<error line="145" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+<error line="160" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+<error line="172" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+<error line="175" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+<error line="204" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+<error line="227" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+<error line="228" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+<error line="229" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+</file>
+<file name="C:\Users\henryw\Desktop\hw-voting-districts-master\src\main\java\localDistrict.class">
+<error line="2" column="5" severity="error" message="File contains tab characters (this is the first instance)." source="com.puppycrawl.tools.checkstyle.checks.whitespace.FileTabCharacterCheck"/>
+<error line="43" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+</file>
+<file name="C:\Users\henryw\Desktop\hw-voting-districts-master\src\main\java\localDistrict.java">
+<error line="1" severity="error" message="Using the &apos;.*&apos; form of import should be avoided - java.util.*." source="com.puppycrawl.tools.checkstyle.checks.imports.AvoidStarImportCheck"/>
+<error line="9" column="14" severity="error" message="Name &apos;localDistrict&apos; must match pattern &apos;^[A-Z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.TypeNameCheck"/>
+</file>
+<file name="C:\Users\henryw\Desktop\hw-voting-districts-master\src\main\java\localDistrict.java~">
+<error line="2" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+<error line="16" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+<error line="26" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+</file>
+<file name="C:\Users\henryw\Desktop\hw-voting-districts-master\src\main\java\local_districts.txt">
+</file>
+<file name="C:\Users\henryw\Desktop\hw-voting-districts-master\src\main\java\mainDistrict.class">
+<error line="3" column="40" severity="error" message="File contains tab characters (this is the first instance)." source="com.puppycrawl.tools.checkstyle.checks.whitespace.FileTabCharacterCheck"/>
+</file>
+<file name="C:\Users\henryw\Desktop\hw-voting-districts-master\src\main\java\mainDistrict.java~">
+<error line="3" column="1" severity="error" message="File contains tab characters (this is the first instance)." source="com.puppycrawl.tools.checkstyle.checks.whitespace.FileTabCharacterCheck"/>
+<error line="7" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+<error line="10" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+<error line="13" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+</file>
+<file name="C:\Users\henryw\Desktop\hw-voting-districts-master\src\main\java\MapComparator.class">
+<error line="7" column="16" severity="error" message="File contains tab characters (this is the first instance)." source="com.puppycrawl.tools.checkstyle.checks.whitespace.FileTabCharacterCheck"/>
+<error line="19" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+</file>
+<file name="C:\Users\henryw\Desktop\hw-voting-districts-master\src\main\java\MapComparator.java">
+</file>
+<file name="C:\Users\henryw\Desktop\hw-voting-districts-master\src\main\java\MapComparator.java~">
+<error line="1" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+<error line="15" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+</file>
+<file name="C:\Users\henryw\Desktop\hw-voting-districts-master\src\main\java\MapComparator2.class">
+<error line="4" column="334" severity="error" message="File contains tab characters (this is the first instance)." source="com.puppycrawl.tools.checkstyle.checks.whitespace.FileTabCharacterCheck"/>
+<error line="16" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+</file>
+<file name="C:\Users\henryw\Desktop\hw-voting-districts-master\src\main\java\MapComparator2.java">
+</file>
+<file name="C:\Users\henryw\Desktop\hw-voting-districts-master\src\main\java\MapComparator2.java~">
+<error line="1" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+<error line="16" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+</file>
+<file name="C:\Users\henryw\Desktop\hw-voting-districts-master\src\main\java\MergeSort.class">
+<error line="3" column="5" severity="error" message="File contains tab characters (this is the first instance)." source="com.puppycrawl.tools.checkstyle.checks.whitespace.FileTabCharacterCheck"/>
+</file>
+<file name="C:\Users\henryw\Desktop\hw-voting-districts-master\src\main\java\MergeSort.java">
+</file>
+<file name="C:\Users\henryw\Desktop\hw-voting-districts-master\src\main\java\MergeSort.java~">
+<error line="30" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+</file>
+<file name="C:\Users\henryw\Desktop\hw-voting-districts-master\src\main\java\tinyDistrict.java">
+</file>
+<file name="C:\Users\henryw\Desktop\hw-voting-districts-master\src\main\java\Voter.class">
+<error line="2" column="5" severity="error" message="File contains tab characters (this is the first instance)." source="com.puppycrawl.tools.checkstyle.checks.whitespace.FileTabCharacterCheck"/>
+</file>
+<file name="C:\Users\henryw\Desktop\hw-voting-districts-master\src\main\java\Voter.java">
+</file>
+<file name="C:\Users\henryw\Desktop\hw-voting-districts-master\src\main\java\Voter.java~">
+<error line="6" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+</file>
+<file name="C:\Users\henryw\Desktop\hw-voting-districts-master\src\main\java\voters.txt">
+</file>
+</checkstyle>

@@ -1,0 +1,9 @@
+[0m[[0mdebug[0m] [0mRunning TaskDef(PyramidTests, com.novocode.junit.JUnitFingerprint@663782a3, false, [SuiteSelector])[0m
+[0m[[0mdebug[0m] [0mRunning TaskDef(PfunkerTests, com.novocode.junit.JUnitFingerprint@663782a3, false, [SuiteSelector])[0m
+[0m[[0mdebug[0m] [0mSummary for JUnit not available.[0m
+[0m[[31merror[0m] [0mFailed: Total 19, Failed 1, Errors 0, Passed 18[0m
+[0m[[0mdebug[0m] [0mPassed tests:[0m
+[0m[[0mdebug[0m] [0m	PfunkerTests[0m
+[0m[[31merror[0m] [0mFailed tests:[0m
+[0m[[31merror[0m] [0m	PyramidTests[0m
+[0m[[31merror[0m] [0m(test:[31mtest[0m) sbt.TestsFailedException: Tests unsuccessful[0m
