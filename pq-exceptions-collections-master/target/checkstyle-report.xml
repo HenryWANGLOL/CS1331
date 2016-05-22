@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="6.5">
+<file name="C:\Users\henryw\Desktop\pq-exceptions-collections-master\src\main\java\Animal.class">
+<error line="1" column="9" severity="error" message="File contains tab characters (this is the first instance)." source="com.puppycrawl.tools.checkstyle.checks.whitespace.FileTabCharacterCheck"/>
+</file>
+<file name="C:\Users\henryw\Desktop\pq-exceptions-collections-master\src\main\java\Animal.java">
+</file>
+<file name="C:\Users\henryw\Desktop\pq-exceptions-collections-master\src\main\java\NoSuchUserException.class">
+<error line="3" column="3" severity="error" message="File contains tab characters (this is the first instance)." source="com.puppycrawl.tools.checkstyle.checks.whitespace.FileTabCharacterCheck"/>
+<error line="6" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+</file>
+<file name="C:\Users\henryw\Desktop\pq-exceptions-collections-master\src\main\java\NoSuchUserException.java">
+</file>
+<file name="C:\Users\henryw\Desktop\pq-exceptions-collections-master\src\main\java\UserDao.class">
+<error line="2" column="2" severity="error" message="File contains tab characters (this is the first instance)." source="com.puppycrawl.tools.checkstyle.checks.whitespace.FileTabCharacterCheck"/>
+</file>
+<file name="C:\Users\henryw\Desktop\pq-exceptions-collections-master\src\main\java\UserDao.java">
+<error line="12" column="9" severity="error" message="&apos;}&apos; should be on the same line." source="com.puppycrawl.tools.checkstyle.checks.blocks.RightCurlyCheck"/>
+</file>
+<file name="C:\Users\henryw\Desktop\pq-exceptions-collections-master\src\main\java\Zoo.class">
+<error line="2" column="2" severity="error" message="File contains tab characters (this is the first instance)." source="com.puppycrawl.tools.checkstyle.checks.whitespace.FileTabCharacterCheck"/>
+</file>
+<file name="C:\Users\henryw\Desktop\pq-exceptions-collections-master\src\main\java\Zoo.java">
+<error line="5" column="8" severity="error" message="Unused import - java.util.HashMap." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+</file>
+</checkstyle>

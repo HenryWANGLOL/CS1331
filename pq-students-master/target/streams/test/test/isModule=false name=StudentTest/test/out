@@ -1,0 +1,6 @@
+[0m[[31merror[0m] [0mTest [33mStudentTest[0m.[31mtoStringTest[0m failed: -10 Student toString() returns incorrect value: expected:<...eorge P. is taking 3[ courses:[0m
+[0m[[31merror[0m] [0mCS 1331: 4[0m
+[0m[[31merror[0m] [0mENGL 1101: 3[0m
+[0m[[31merror[0m] [0mMATH 1501: 2[0m
+[0m[[31merror[0m] [0m]> but was:<...eorge P. is taking 3[[0m
+[0m[[31merror[0m] [0m[Ljava.lang.String;@6d1ea9aa]>, took 0.003 sec[0m

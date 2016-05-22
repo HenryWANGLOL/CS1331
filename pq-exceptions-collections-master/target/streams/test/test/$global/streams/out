@@ -1,0 +1,7 @@
+[0m[[0mdebug[0m] [0mRunning TaskDef(CollectionsTests, com.novocode.junit.JUnitFingerprint@451e1cd6, false, [SuiteSelector])[0m
+[0m[[0mdebug[0m] [0mRunning TaskDef(ExceptionsTests, com.novocode.junit.JUnitFingerprint@451e1cd6, false, [SuiteSelector])[0m
+[0m[[0mdebug[0m] [0mSummary for JUnit not available.[0m
+[0m[[31merror[0m] [0mFailed: Total 10, Failed 4, Errors 0, Passed 6[0m
+[0m[[31merror[0m] [0mFailed tests:[0m
+[0m[[31merror[0m] [0m	CollectionsTests[0m
+[0m[[31merror[0m] [0m	ExceptionsTests[0m
